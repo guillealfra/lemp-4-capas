@@ -70,6 +70,8 @@ Este proyecto monta una infraestructura LEMP (Linux, Nginx, MySQL, PHP) distribu
     │  DB1 (Galera) │               │  DB2 (Galera) │
     │ 192.168.20.20 │               │ 192.168.20.30 │
     └───────────────┘               └───────────────┘
+
+                (Imagen creada con IA)
 ```
 
 ### Redes configuradas:
