@@ -270,18 +270,7 @@ Y ajustamos en `/etc/nginx/sites-available/phpserver` el socket correcto según 
 
 ### Instalación
 
-1. Verificar que todos los scripts de aprovisionamiento estén en la misma carpeta que el Vagrantfile:
-```bash
-ls -1
-# Debe mostrar:
-# Vagrantfile
-# balanceador_aprov.sh
-# db1_aprov.sh
-# db2_aprov.sh
-# dbHaproxy_aprov.sh
-# serverNfs_aprov.sh
-# web_aprov.sh
-```
+1. Verificar que todos los scripts de aprovisionamiento estén en la misma carpeta que el Vagrantfile
 
 2. Levantar toda la infraestructura:
 ```bash
